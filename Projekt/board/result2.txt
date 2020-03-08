@@ -1,0 +1,14 @@
+Ziehe weissen Springer von 1A zum schwarzen Koenig auf 8H
+
+
+  A B C D E F G H 
+8|X| |X| |X| |X|K|
+7| |X| |X| |b| |X|
+6|X| |X| |X| |b| |
+5| |X| |X| |X| |X|
+4|X| |X| |X| |X| |
+3| |X| |X| |X| |X|
+2|X| |X| |X| |X| |
+1|s|X| |X| |X| |X|
+
+Es gibt leider keine Loesung!

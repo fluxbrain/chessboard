@@ -1,0 +1,17 @@
+Ziehe weissen Springer von 4D zum schwarzen Koenig auf 4E
+
+
+  A B C D E F G H 
+8|X| |X| |X| |X| |
+7| |X| |X| |X| |X|
+6|X| |X| |b| |X| |
+5| |X| |X| |X| |X|
+4|X| |X|s|K| |X| |
+3| |X|b|X| |X|b|X|
+2|X| |X| |X| |X| |
+1| |X| |X| |X| |X|
+
+4D -> 3B
+3B -> 5C
+5C -> 4E
+
